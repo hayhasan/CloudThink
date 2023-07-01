@@ -18,7 +18,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Majestic Admin</title>
+    <title>Cloudthink dashboard</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="vendors/mdi/css/materialdesignicons.min.css" />
     <link rel="stylesheet" href="vendors/base/vendor.bundle.base.css" />
@@ -43,10 +43,10 @@
             class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100"
           >
             <a class="navbar-brand brand-logo" href="index.php"
-              ><img src="images/logo.svg" alt="logo"
+              ><img src="images/CLOUDTHNK.png" alt="logo"
             /></a>
             <a class="navbar-brand brand-logo-mini" href="index.php"
-              ><img src="images/logo-mini.svg" alt="logo"
+              ><img src="images/CLOUDTHNK.png" alt="logo"
             /></a>
             <button
               class="navbar-toggler navbar-toggler align-self-center"
@@ -124,10 +124,7 @@
               <div class="col-md-12 grid-margin">
                 <div class="d-flex justify-content-between flex-wrap">
                   <div class="d-flex align-items-end flex-wrap">
-                    <div class="me-md-3 me-xl-5">
-                      <h2>Welcome back,</h2>
-                      <p class="mb-md-0">Your analytics dashboard template.</p>
-                    </div>
+                   
                     
                   </div>
                   
@@ -168,7 +165,7 @@
                             class="d-flex border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                              class="mdi mdi-currency-usd me-3 icon-lg text-danger"
+                            ><img src="images/donation.png" alt="total"
                             ></i>
                             <div
                               class="d-flex flex-column justify-content-around"
@@ -187,8 +184,9 @@
                             class="d-flex border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                              class="mdi mdi-eye me-3 icon-lg text-success"
-                            ></i>
+                              
+                            ><img src="images/cloth.png" alt="kemeja">
+                          </i>
                             <div
                               class="d-flex flex-column justify-content-around"
                             >
@@ -207,7 +205,9 @@
                             class="d-flex border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                              class="mdi mdi-download me-3 icon-lg text-warning"
+                             
+              ><img src="images/pants.png" alt="celana"
+            
                             ></i>
                             <div
                               class="d-flex flex-column justify-content-around"
@@ -227,8 +227,8 @@
                             class="d-flex py-3 border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                              class="mdi mdi-flag me-3 icon-lg text-danger"
-                            ></i>
+                            ><img src="images/shirt.png" alt="kaos">
+                            </i>
                             <div
                               class="d-flex flex-column justify-content-around"
                             >
@@ -694,28 +694,27 @@ var chart = new Chart(ctx, {
             </div>
           </div>
         </div>
-          <!-- partial:partials/_footer.html -->
-          <footer class="footer">
+           <!-- partial:partials/_footer.html -->
+           <footer class="footer">
             <div
               class="d-sm-flex justify-content-center justify-content-sm-between"
             >
               <span
                 class="text-muted text-center text-sm-left d-block d-sm-inline-block"
                 >Copyright ©
-                <a href="https://www.bootstrapdash.com/" target="_blank"
-                  >bootstrapdash.com </a
-                >2021</span
+                <a href="https://www.cloudthink.com/" target="_blank"
+                  >CloudThink </a
+                >2023</span
               >
               <span
                 class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"
                 >Only the best
-                <a href="https://www.bootstrapdash.com/" target="_blank">
-                  Bootstrap dashboard
+                <a href="https://www.cloudthink.com/" target="_blank">
+                  cloudthink
                 </a>
-                templates</span
+                donation</span
               >
             </div>
-            
           </footer>
           <!-- partial -->
         </div>

@@ -15,7 +15,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Majestic Admin</title>
+    <title>Cloudthink dashboard</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="vendors/mdi/css/materialdesignicons.min.css" />
     <link rel="stylesheet" href="vendors/base/vendor.bundle.base.css" />
@@ -39,11 +39,11 @@
           <div
             class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100"
           >
-            <a class="navbar-brand brand-logo" href="index.php"
-              ><img src="images/logo.svg" alt="logo"
+          <a class="navbar-brand brand-logo" href="index.php"
+              ><img src="images/CLOUDTHNK.png" alt="logo"
             /></a>
             <a class="navbar-brand brand-logo-mini" href="index.php"
-              ><img src="images/logo-mini.svg" alt="logo"
+              ><img src="images/CLOUDTHNK.png" alt="logo"
             /></a>
             <button
               class="navbar-toggler navbar-toggler align-self-center"
@@ -176,17 +176,17 @@
               <span
                 class="text-muted text-center text-sm-left d-block d-sm-inline-block"
                 >Copyright ©
-                <a href="https://www.bootstrapdash.com/" target="_blank"
-                  >bootstrapdash.com </a
-                >2021</span
+                <a href="https://www.cloudthink.com/" target="_blank"
+                  >CloudThink </a
+                >2023</span
               >
               <span
                 class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"
                 >Only the best
-                <a href="https://www.bootstrapdash.com/" target="_blank">
-                  Bootstrap dashboard
+                <a href="https://www.cloudthink.com/" target="_blank">
+                  cloudthink
                 </a>
-                templates</span
+                donation</span
               >
             </div>
           </footer>

@@ -187,11 +187,13 @@
                         </div>
                     </div>
                   </div> <div class="col-12">
-                    <label for="Size">Jenis Pakaian</label>
+                    <label for=""></label>
                       <div class="form-floating">
 
                         <select  class="btn btn-secondary dropdown-toggle " style="background-color:white ; width: 525px; height: 50px;" name="jenis_pakaian">
-                          <option value="Kemeja">Kemeja</option>
+                        <option label="Jenis Pakaian" 
+                        ></option>  
+                        <option value="Kemeja">Kemeja</option>
                           <option value="Celana">Celana</option>
                           <option value="Kaos">Kaos</option>
                           
@@ -200,32 +202,34 @@
 
 
                   </div> <div class="col-12">
-                      <label for="Size">Size</label>
+                      <label for=""></label>
                         <div class="form-floating">
 
                           <select  class="btn btn-secondary dropdown-toggle " style="background-color:white ; float: left; width: 525px; height: 50px;" name="size">
-                            <option value="S">S</option>
+                          <option label="Size" 
+                        ></option>  
+                          <option value="S">S</option>
                             <option value="M">M</option>
                             <option value="L">L</option>
                             <option value="XL">XL</option>
                           </select>
                         </div>
-
+<label for=""></label>
 
                     </div>
-
+<div></div>
                    
 
                     <div class="col-12">
-                        <input class="btn btn-primary px-5" href="resi.php" type="submit" value="submit" name="submit" id="submit"
+                      <label for=""></label>
+                        <input class="btn btn-primary px-5" style="margin-top : 20px;" href="resi.php" type="submit" value="submit" name="submit" id="submit"
                        >
                           
-                            Donate Now
+                          
 
                             <div
                               
-                            class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
+                           >
                             </div>
                         </input>
                     </div>

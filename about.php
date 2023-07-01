@@ -9,7 +9,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>ChariTeam - Free Nonprofit Website Template</title>
+    <title>CloudThink</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="" name="keywords" />
     <meta content="" name="description" />
@@ -217,10 +217,10 @@
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-              <img class="img-fluid mb-4" src="img/icon-1.png" alt="" />
+              <img class="img-fluid mb-4" src="img/cloth.png" alt="" />
               <h4 class="mb-3">Top</h4>
               <p class="mb-4">
-                Bantu Korban bencana mendapakatkan atasan.
+                Bantu Korban bencana mendapakatkan Pakaian untuk menyambut para donatur dan merayakan event.
               </p>
               <a class="btn btn-outline-primary px-3" href="">
                 Learn More
@@ -234,10 +234,10 @@
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-              <img class="img-fluid mb-4" src="img/icon-2.png" alt="" />
+              <img class="img-fluid mb-4" src="img/pants.png" alt="" />
               <h4 class="mb-3">Bottom</h4>
               <p class="mb-4">
-                Bantu Korban bencana mendapakatkan bawahan.
+                Bantu Korban bencana mendapakatkan celana yang layak.
               </p>
               <a class="btn btn-outline-primary px-3" href="">
                 Learn More
@@ -251,10 +251,10 @@
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-              <img class="img-fluid mb-4" src="img/icon-3.png" alt="" />
-              <h4 class="mb-3">Accessories</h4>
+              <img class="img-fluid mb-4" src="img/shirt.png" alt="" />
+              <h4 class="mb-3">Kaos</h4>
               <p class="mb-4">
-                Bantu Korban bencana mendapakatkan Accessories.
+                Bantu Korban bencana mendapakatkan Kaos untuk kehidupan sehari-hari.
               </p>
               <a class="btn btn-outline-primary px-3" href="">
                 Learn More

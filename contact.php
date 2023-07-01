@@ -179,7 +179,8 @@
                 <div class="form-floating">
 
                   <select  class="btn btn-secondary dropdown-toggle "  style="background-color:white ; width: 625px; height: 50px;" name="jenis">
-                    <option value="0" >Jenis Pakaian</option>
+                  <option label="Jenis Pakaian" 
+                        ></option>  
                     <option value="Kemeja">Kemeja</option>
                     <option value="Celana">Celana</option>
                     <option value="Kaos">Kaos</option>
@@ -189,17 +190,13 @@
 
 
     
-                <label for="Size"></label>
+               
               <div class="col-12">
-                  <input type="submit" class="btn btn-primary px-5" href="resi.php" name="submit" 
+                  <input type="submit" style="margin-top : 20px;" class="btn btn-primary px-5" href="resi.php" name="submit" 
                  >
                     
-                      Donate Now
-
                       <div
-                        
-                      class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-                          <i class="fa fa-arrow-right"></i>
+                      >
                       </div>
 </input>
               </div>

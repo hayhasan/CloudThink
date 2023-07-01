@@ -165,7 +165,7 @@
                             class="d-flex border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                            ><img src="images/donation.png" alt="total"
+                            ><img src="images/donation.png"  style="margin-right: 30px;" alt="total"
                             ></i>
                             <div
                               class="d-flex flex-column justify-content-around"
@@ -185,7 +185,7 @@
                           >
                             <i
                               
-                            ><img src="images/cloth.png" alt="kemeja">
+                            ><img src="images/cloth.png" style="margin-right:10px;" alt="kemeja">
                           </i>
                             <div
                               class="d-flex flex-column justify-content-around"
@@ -206,7 +206,7 @@
                           >
                             <i
                              
-              ><img src="images/pants.png" alt="celana"
+              ><img src="images/pants.png" alt="celana"  style="margin-right:10px;"
             
                             ></i>
                             <div
@@ -227,7 +227,7 @@
                             class="d-flex py-3 border-md-right flex-grow-1 align-items-center justify-content-center p-3 item"
                           >
                             <i
-                            ><img src="images/shirt.png" alt="kaos">
+                            ><img src="images/shirt.png" alt="kaos"  style="margin-right:10px;">
                             </i>
                             <div
                               class="d-flex flex-column justify-content-around"

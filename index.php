@@ -238,21 +238,21 @@
                             <div class="row g-3">
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control bg-light border-0" id="name" name="name"
+                                        <input Required type="text" class="form-control bg-light border-0" id="name" name="name"
                                             placeholder="Your Name">
                                         <label for="name">Your Name</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control bg-light border-0" id="email" name="email"
+                                        <input Required type="email" class="form-control bg-light border-0" id="email" name="email"
                                             placeholder="Your Email">
                                         <label for="email">Your Email</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control bg-light border-0" id="phone" name="phone"
+                                        <input Required type="text" class="form-control bg-light border-0" id="phone" name="phone"
                                             placeholder="Your Email">
                                         <label for="email">Phone Number</label>
                                     </div>
@@ -261,7 +261,7 @@
                                    
                                       <div class="form-floating">
                 
-                                        <select  class="btn btn-secondary dropdown-toggle " style="background-color:white ; width: 525px; height: 50px;" name="jenis_pakaian" id="jenis_pakaian">
+                                        <select Required  class="btn btn-secondary dropdown-toggle " style="background-color:white ; width: 525px; height: 50px;" name="jenis_pakaian" id="jenis_pakaian">
                                         <option label="Jenis Pakaian" 
                         ></option>  
                                         <option value="Kemeja">Kemeja</option>
@@ -276,7 +276,7 @@
                                       
                                         <div class="form-floating">
                 
-                                          <select  class="btn btn-secondary dropdown-toggle " style="background-color:white ; float: left; width: 525px; height: 50px;" name="size">
+                                          <select  Required class="btn btn-secondary dropdown-toggle " style="background-color:white ; float: left; width: 525px; height: 50px;" name="size">
                                           <option label="Size" 
                         ></option>  
                                           <option value="S">S</option>

@@ -169,21 +169,21 @@
               <div class="col-12">
                   <div class="form-floating">
                       <input type="text" class="form-control bg-light border-0" id="name" name="lembaga"
-                          placeholder="Your Name">
+                          placeholder="Your Name" Required>
                       <label for="name">Nama Lembaga</label>
                   </div>
               </div>
               <div class="col-12">
                   <div class="form-floating">
                       <input type="text" class="form-control bg-light border-0" id="alamat" name="alamat"
-                          placeholder="Your Email">
+                          placeholder="Your Email" Required>
                       <label for="email">Alamat</label>
                   </div>
               </div>
               <div class="col-12">
                   <div class="form-floating">
                       <input type="number" class="form-control bg-light border-0" id="email" name="jumlah"
-                          placeholder="Your Email">
+                          placeholder="Your Email" Required>
                       <label for="email">Jumlah yang dibutuhkan</label>
                   </div>
               </div>
@@ -192,7 +192,7 @@
               <label for="Size"></label>
                 <div class="form-floating">
 
-                  <select  class="btn btn-secondary dropdown-toggle "  style="background-color:white ; width: 525px; height: 50px;" name="jenis">
+                  <select Required class="btn btn-secondary dropdown-toggle "  style="background-color:white ; width: 525px; height: 50px;" name="jenis">
                   <option label="Jenis Pakaian" 
                         ></option>  
                     <option value="Kemeja">Kemeja</option>

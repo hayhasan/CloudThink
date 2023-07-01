@@ -291,7 +291,7 @@
                                     
                                           
                                     <div class="col-12">
-                        <input class="btn btn-primary px-5" style="margin-top : 20px;" href="resi.php" type="submit" value="submit" name="submit" id="submit"
+                        <input  class="btn btn-primary px-5" style="margin-top : 20px;" href="resi.php" type="submit" value="submit" name="submit" id="submit"
                        >
                           
                            

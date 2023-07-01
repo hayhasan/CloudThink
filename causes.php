@@ -145,8 +145,8 @@
     </div>
     <!-- Page Header End -->
 
-    <!-- Causes Start -->
-    <div class="container-xxl py-5">
+     <!-- Causes Start -->
+     <div class="container-xxl py-5">
       <div class="container">
         <div
           class="text-center mx-auto mb-5 wow fadeInUp"
@@ -159,7 +159,7 @@
             Feature Causes
           </div>
           <h1 class="display-6 mb-5">
-            Every Child Deserves The Opportunity To Learn
+            Every Child Deserves better Clothes
           </h1>
         </div>
         <div class="row g-4 justify-content-center">
@@ -171,20 +171,19 @@
                 <div
                   class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
                 >
-                  <small>Education</small>
+                  <small>Tsunami</small>
                 </div>
-                <h5 class="mb-3">Education For African Children</h5>
+                <h5 class="mb-3">Bencana Tsunami Aceh</h5>
                 <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                  Bencana tsunami yang terjadi di aceh membuah kita kehilangan segalanya. Bantu korban mengumpulkan pakaian layak pakai.
                 </p>
                 <div class="causes-progress bg-white p-3 pt-2">
                   <div class="d-flex justify-content-between">
                     <p class="text-dark">
-                      $10,000 <small class="text-body">Goal</small>
+                      10.000 <small class="text-body">Goal</small>
                     </p>
                     <p class="text-dark">
-                      $9,542 <small class="text-body">Raised</small>
+                      9542 <small class="text-body">Raised</small>
                     </p>
                   </div>
                   <div class="progress">
@@ -223,20 +222,19 @@
                 <div
                   class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
                 >
-                  <small>Pure Water</small>
+                  <small>Tanah Longsor</small>
                 </div>
-                <h5 class="mb-3">Ensure Pure Drinking Water</h5>
+                <h5 class="mb-3">14 Rumah Terdapampak tanah longsor di magelang</h5>
                 <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                  Tanah longsor yang menimpa 14 rumah di daerah mertoyudan magelang. Pemda  ikut turun tangan dalam hal kebutuhan bahan pokok.
                 </p>
                 <div class="causes-progress bg-white p-3 pt-2">
                   <div class="d-flex justify-content-between">
                     <p class="text-dark">
-                      $10,000 <small class="text-body">Goal</small>
+                      10.000 <small class="text-body">Goal</small>
                     </p>
                     <p class="text-dark">
-                      $9,542 <small class="text-body">Raised</small>
+                      9.542 <small class="text-body">Raised</small>
                     </p>
                   </div>
                   <div class="progress">
@@ -275,20 +273,19 @@
                 <div
                   class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
                 >
-                  <small>Healthy Life</small>
+                  <small>Gempa Bumi</small>
                 </div>
-                <h5 class="mb-3">Ensure Medical Treatment</h5>
+                <h5 class="mb-3">Korban bencana gempa bumi gunung kidul</h5>
                 <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                  Gempa bumi merenggut 16 Korban jiwa 12 korban luka berat serta 112 membutuhkan bantuan pakaian layak pakai.
                 </p>
                 <div class="causes-progress bg-white p-3 pt-2">
                   <div class="d-flex justify-content-between">
                     <p class="text-dark">
-                      $10,000 <small class="text-body">Goal</small>
+                      10.000 <small class="text-body">Goal</small>
                     </p>
                     <p class="text-dark">
-                      $9,542 <small class="text-body">Raised</small>
+                      9.542 <small class="text-body">Raised</small>
                     </p>
                   </div>
                   <div class="progress">
@@ -324,6 +321,50 @@
     </div>
     <!-- Causes End -->
 
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="position-relative overflow-hidden h-100" style="min-height: 400px;">
+                        <img class="position-absolute w-100 h-100 pt-5 pe-5" src="img/about-1.jpg" alt=""
+                            style="object-fit: cover;">
+                        <img class="position-absolute top-0 end-0 bg-white ps-2 pb-2" src="img/about-2.jpg" alt=""
+                            style="width: 200px; height: 200px;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="h-100">
+                        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
+                        <h1 class="display-6 mb-5">Ini adalah tempat untuk saling membantu sesama manusia</h1>
+                        <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
+                            <p class="text-dark mb-2">CloudThink adalah tempat untuk membantu teman teman kita.
+                                CloudThink
+                                memberikan fitur donasi dan galang dana
+                                Manfaat berdonasi juga sangat banyak, tidak hanya bagi orang yang
+                                menerima tetapi juga bagi orang yang melakukannya. Ini merupakan
+                                Tindakan yang sangat mulia, namun tidak sedikit yang masih ragu
+                                melakukannya. Donasi adalah pemberian yang dilakukan oleh diri
+                                sendiri untuk kepentingan orang lain tanpa mengharapkan balasan
+                                dan tanpa ada paksaan
+
+                            </p>
+                            <span class="text-primary">R Siliwangi Prabaswara Nurasha, Founder</span>
+                        </div>
+
+                        <a class="btn btn-primary py-2 px-3 me-3" href="">
+                            Learn More
+                            <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                        </a>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-white-50 footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
